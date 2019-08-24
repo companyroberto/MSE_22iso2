@@ -4,10 +4,10 @@ Implementación de Sistemas Operativos (II)
 ### Entregables:
 
 - Presentación del Trabajo Práctico.
-<br />https://github.com/companyroberto/MSE_22iso2
+<br />https://github.com/companyroberto/MSE_22iso2/blob/master/Documentacion/Presentaci%C3%B3n%20Trabajo%20Final.pdf
 
-- Contenido de la memoria SD.
-<br />https://github.com/companyroberto/MSE_22iso2
+- Contenido de la memoria MicroSD.
+<br />https://github.com/companyroberto/MSE_22iso2/tree/master/MicroSD
 
 
 ### Notas:
