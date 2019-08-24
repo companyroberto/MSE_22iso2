@@ -39,7 +39,7 @@ Para bootear por TFTP en la materia anterior hacíamos esto:
 - tftp 0x43000000 sun8i-h2-plus-orangepi-zero.dtb
 - bootz 0x42000000 - 0x43000000
 
-Para bootear desde la SD sería ahora es así:
+Para bootear desde la SD ahora es así:
 - setenv bootargs root=/dev/mmcblk0p2 rootwait rw console=ttyS0,115200 ( para la primer partición FS es  root=/dev/mmcblk0p2  y para la segunda es  root=/dev/mmcblk0p3  )
 - fatload mmc 0:1 0x42000000 zImage
 - fatload mmc 0:1 0x43000000 sun8i-h2-plus-orangepi-zero.dtb
