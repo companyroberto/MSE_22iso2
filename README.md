@@ -15,7 +15,7 @@ Implementación de Sistemas Operativos (II)
 Configuración en las particiones de la SD:
 <br />Utilizando una SD de 16Gb, crear tres particiones primarias:
 - 100MB Fat16
-- ~8Gb Ext4 (para un FS mínimo de primeras clases)
+- ~8Gb Ext4 (para un FS mínimo de primeras clases con busybox)
 - ~8Gb Ext4 (para otro FS, con buildroot)
 
 En la partición en FAT copie los archivos:
